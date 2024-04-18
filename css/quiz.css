@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+#conteneur_{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#bouton button{
+    border: none;
+    padding: 10px 20px;
+
+}
